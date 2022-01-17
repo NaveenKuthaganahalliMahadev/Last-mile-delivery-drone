@@ -14,3 +14,24 @@ Drones can be made to travel and deliver goods faster in the optimized path savi
 BLOCK DIAGRAM:
 
 ![image](https://user-images.githubusercontent.com/97881084/149749887-74dfcdff-4308-46cd-9e67-337c641d2dd8.png)
+
+TECHNOLOGY STACK:
+
+Hardware:
+• Omnibus F4: Flight Controller 
+• BN-880 GPS module
+• GSM module 
+• Flysky Telemetry 
+• IoT Boards 
+• Camera module 
+• Battery monitoring System
+
+Software:
+• INAV Configurator 
+• Linux(RaspbianOS) 
+• VirtualNetworkComputing 
+• Python3(coding) 
+• OpenCV
+
+![IMG-20210722-WA0005](https://user-images.githubusercontent.com/97881084/149758923-8c96b3f3-b96d-4cb7-b301-324124feb428.jpg)
+
