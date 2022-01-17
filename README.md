@@ -33,5 +33,5 @@ Software:
 • Python3(coding) 
 • OpenCV
 
-![IMG-20210722-WA0005](https://user-images.githubusercontent.com/97881084/149758923-8c96b3f3-b96d-4cb7-b301-324124feb428.jpg)
+![IMG-20210722-WA0005](https://user-images.githubusercontent.com/97881084/149759767-9bba6a40-0a2e-472a-81c0-83c5611db51c.jpg)
 
