@@ -37,11 +37,11 @@ Drones can be made to travel and deliver goods faster in the optimized path savi
 ## How are Autonomous drones made?
 
 ### 1) Flight Controller
-Flight controller is the heart of the drone. Any movement or action of the drone is controlled by signals sent from flight controller. To make a drone autonomous, flight controller is the most important device.
+Flight controller is the heart of the drone. Any movement or action of the drone is controlled by signals sent from the flight controller. To make a drone autonomous, flight controller is the most important device.
 
 ![image](https://user-images.githubusercontent.com/97881084/149920805-5d122e8b-4822-401c-acd1-2fb470186a4b.png)
 
-A flight controller is basically a circuit board with a range of sensors that detect movement of the drone, as well as user commands. Using this data, it then controls the speed of the motors to make the craft move as instructed. To make a drone autonomous, this flight controller should be coded so that it can control the drone to do the task that is commanded from the software(user end).
+A flight controller is basically a circuit board with a range of sensors that detect movement of the drone, as well as user commands. Using this data, it then controls the speed of the motors to make the drone move as instructed. To make a drone autonomous, this flight controller should be coded so that it can control the drone to do the task that is commanded from the software(user end).
 
 ### 2) DroneKit
 DroneKit helps developers to create applications that can run on a UAV’s onboard companion computer and it can communicate with the integrated software 
