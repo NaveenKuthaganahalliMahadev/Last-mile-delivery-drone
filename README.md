@@ -41,16 +41,16 @@ Flight controller is the heart of the drone. Any movement or action of the drone
 
 ![image](https://user-images.githubusercontent.com/97881084/149920805-5d122e8b-4822-401c-acd1-2fb470186a4b.png)
 
-A flight controller is basically a circuit board with a range of sensors that detect movement of the drone, as well as user commands. Using this data, it then controls the speed of the motors to make the drone move as instructed. To make a drone autonomous, this flight controller should be coded so that it can control the drone to do the task that is commanded from the software(user end).
+A flight controller is basically a circuit board with a range of sensors that detect movement of the drone, as well as user commands. Using this data, it then controls the speed of the motors to make the drone move as instructed. To make a drone autonomous, this flight controller should be coded so that it can control the drone to do the task that is commanded from the software (user end).
 
 ### 2) DroneKit
 DroneKit helps developers to create applications that can run on a UAV’s onboard companion computer and it can communicate with the integrated software 
-the ArduPilot(or autopilot) flight controller using a low-latency link.
+the ArduPilot (or autopilot) flight controller using a low-latency link.
 
 ![image](https://user-images.githubusercontent.com/97881084/149921837-5972a7da-216a-4e9c-a9a9-62888193434a.png)
 
 Onboard applications can significantly enhance the autopilot, by adding greater intelligence 
-to vehicle behaviour, and performing tasks that are time-sensitive or computationally intensive (for example, path planning, 3D modelling). DroneKit￾Python can also be used for ground station applications, communicating with drones over a higher latency Radio Frequency-link.DroneKit API(Application programming interface) is compatible with drones that communicate using the MAVLink protocol. It runs on various operating systems like Linux, Mac OS X, or Windows. It provides programmatic access to a connected vehicle’s telemetry, state and parameter information, and enables both mission management and direct control over vehicle operations and movement. 
+to vehicle behaviour, and performing tasks that are time-sensitive or computationally intensive (for example, path planning, 3D modelling). DroneKit￾Python can also be used for ground station applications, communicating with drones over a higher latency Radio Frequency-link.DroneKit API (Application programming interface) is compatible with drones that communicate using the MAVLink protocol. It runs on various operating systems like Linux, Mac OS X, or Windows. It provides programmatic access to a connected vehicle’s telemetry, state and parameter information, and enables both mission management and direct control over vehicle operations and movement. 
 
 #### Features of DroneKit API 
 
